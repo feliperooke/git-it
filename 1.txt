@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 1-Cledson Lopes
 2-
+=======
+1-Gustavo Henrique Santos Souza de Miranda
+2- Samuel Ribeiro
+>>>>>>> 171b9a9d60e04a5687f0d5005f6c5f8992a5d291
 3-
 4-
 5-
