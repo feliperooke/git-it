@@ -5,8 +5,12 @@ Alteração local
 
 testes
 
+
 Alteração da Func1
 
 
 
 Nova Alteração na Func1
+Continuei trabalhando no Master
+Alteração da Func1
+
